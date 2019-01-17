@@ -1,2 +1,8 @@
 # LeetCode
-开始有空的话刷LeetCode
+开始有空的话刷LeetCode  
+## 目录
+
+
+ 题目  | 代码 |状态|运行时间|日期|  
+:--:|:--:|:--:|:--:|:--:|  
+1. two sum|[two-sum.cpp](https://github.com/zfb132/LeetCode/blob/master/code/two-sum.cpp "地址")|无 |无 |2019.01.17|  
