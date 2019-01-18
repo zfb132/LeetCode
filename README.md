@@ -7,5 +7,6 @@
 :--:|:--:|:--:|:--:|:--:|  
 |1. two sum|[two-sum.cpp](https://github.com/zfb132/LeetCode/blob/master/code/two-sum.cpp "地址")|C++ |92ms |2019.01.17|  
 |2. add two numbers|[add-two-numbers.cpp](https://github.com/zfb132/LeetCode/blob/master/code/add-two-numbers.cpp "地址")|C++ |36ms |2019.01.17|  
+|3. longest substring|[longest-substring.cpp](https://github.com/zfb132/LeetCode/blob/master/code/longest-substring.cpp "地址")|C++ |16ms |2019.01.18|  
 |344. reverse string|[reverse-string.cpp](https://github.com/zfb132/LeetCode/blob/master/code/reverse-string.cpp "地址")|C++ |12ms |2017.04.22|  
 |412. fizz buzz|[fizz-buzz.cpp](https://github.com/zfb132/LeetCode/blob/master/code/fizz-buzz.cpp "地址")|C++ |4ms |2019.01.17|  
